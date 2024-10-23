@@ -28,13 +28,12 @@ Gerekli Kütüphanelerin Yüklenmesi
 
 Projeyi çalıştırmadan önce aşağıdaki Python modüllerini yükleyin:
 
-bash
+     bash
 
-pip install cryptography pillow qrcode tqdm
+     pip install cryptography pillow qrcode tqdm
 
-Proje Dosya Yapısı
+Proje Dosya Yapısı;
 
-plaintext
 
 .
 ├── crypto_utils.py   # AES şifreleme ve çözme fonksiyonları
